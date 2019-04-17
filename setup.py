@@ -8,7 +8,7 @@ with open('README.md', 'r') as f:
 
 setup(name='matchenc',
       version='1.0',
-      description='Checks which standard encoding can open the given file, and if ontains the expected terms are encoded as such.',
+      description='Checks which standard encoding can open the given file, and if contains the expected terms are encoded as such.',
       long_description=long_description,
       long_description_content_type='text/x-rst',
       classifiers=[
